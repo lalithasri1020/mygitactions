@@ -5,3 +5,5 @@
 # v1.2
 # actions
 # my
+test
+version
